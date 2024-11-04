@@ -1,4 +1,4 @@
-### Bem-vindo(a) ao perfil do Heitor Orlando 😁
+### Bem-vindo(a) ao perfil do Heitor Orlando
 
  <div>
    <a href="https://github.com/HeitorOrlando">
