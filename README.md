@@ -1,12 +1,12 @@
-# Olá, eu sou o [F0xTrot(Heitor)]! 👨‍💻🛡️
+# Olá, eu sou o F0xTrot(Heitor)! 👨‍💻⚔️🚩
 
 Bem-vindo ao meu laboratório! Sou um entusiasta de segurança ofensiva em plena jornada de aprendizado para me tornar um Pentester Profissional.
 
 ### 🚀 Sobre mim:
-- 🔭 Atualmente jutnando dinheiro para cursar **Introdução ao Hacking e Pentest** na Solyd e **CyberSegurança** em alguma faculdade.
-- ⚡ Estou tentando uma transferência de carreira de técnico em eletroeletrônica para pentester .
+- 🔭 Atualmente jutando dinheiro para me tornar **Hacker Ético** pela Solyd e cursar **CyberSegurança** em alguma faculdade.
+- ⚡ Almejo uma transferência de carreira de técnico em eletroeletrônica para Hacker Ético .
 - 🎯 Objetivo para 2026: Obter a certificação **SYCP** e ingressar em um time de Red Team.
-- 🎯 Objetivo para 2028: Obter diploma em cybersegurança.
+- 🎯 Objetivo para 2028: Obter diploma em cybersegurança e obter o certificado de **SYES**.
 
 ### 🛠️ Toolbox de Segurança:
 - **EM CONSTRUÇÃO**
