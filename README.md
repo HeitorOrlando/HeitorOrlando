@@ -3,7 +3,7 @@
 Bem-vindo ao meu laboratório! Sou um entusiasta de segurança ofensiva em plena jornada de aprendizado para me tornar um Pentester Profissional.
 
 ### 🚀 Sobre mim:
-- 🔭 Atualmente investindo na minha formação como **Hacker Ético** pela Solyd e cursando **Graduação em Defesa Cibernética / Cibersegurança**.
+- 🔭 Atualmente investindo na minha formação como **Hacker Ético** pela Solyd e procurando por **Graduação em Defesa Cibernética / Cibersegurança**.
 - ⚡ Almejo uma transição de carreira de Técnico em Eletroeletrônica para Hacker Ético.
 - 🎯 Objetivo para 2026: Obter a certificação **SYCP** (Solyd Certified Pentester) e ingressar em um time de Red Team.
 - 🎯 Objetivo para 2028: Obter diploma em Cibersegurança e conquistar a certificação **SYES** (Solyd Evasion Specialist).
