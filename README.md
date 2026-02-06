@@ -6,7 +6,7 @@ Welcome to my lab! I am an offensive security enthusiast on a journey to becomin
 - 🔭 Currently investing in my **Ethical Hacker** training through Solyd and looking for a **Degree in Cyber Defense / Cybersecurity**.
 - ⚡ Aiming for a career transition from Electronics Technician to Ethical Hacker.
 - 🎯 **2026 Goal:** Earn the **SYCP** (Solyd Certified Pentester) certification and join a Red Team.
-- 🎯 **2028 Goal:** Graduate in Cybersecurity and earn the **SYES** (Solyd Evasion Specialist) certification.
+- 🎯 **2030 Goal:** Graduate in Software Engineer.
 
 ### 🛠️ Security Toolbox:
 - **UNDER CONSTRUCTION** 🚧
