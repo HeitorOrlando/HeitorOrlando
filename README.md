@@ -19,4 +19,4 @@ In this profile, I share my simple scripts, simple reconnaissance tools.
 
 ---
 
-> “Knowledge is the only tool to make your future.”
+> “Knowledge is the principal tool to make your future.”
