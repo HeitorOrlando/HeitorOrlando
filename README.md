@@ -18,4 +18,4 @@ In this profile, I share my simple scripts, simple reconnaissance tools.
 
 ---
 
-> “Knowledge is the only tool an attacker cannot steal from you.”
+> “Knowledge is the only tool to make your future.”
