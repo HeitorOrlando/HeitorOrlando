@@ -8,6 +8,7 @@ Welcome to my hub
 - ⚡ Aiming for a career transition from Electronics Technician to Programmer.
 - 🎯 **2030 Goal:** Graduate in Software Engineer.
 - 🎯 Learning japanese.
+- English B-1
   
 ### 📈 What you'll find here:
 In this profile, I share my simple scripts, simple reconnaissance tools.
