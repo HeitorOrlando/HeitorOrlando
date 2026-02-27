@@ -7,6 +7,7 @@ Welcome to my lab! I am an offensive security enthusiast on a journey to becomin
 - ⚡ Aiming for a career transition from Electronics Technician to Ethical Hacker.
 - 🎯 **2026 Goal:** Earn the **SYCP** (Solyd Certified Pentester) certification and join a Red Team.
 - 🎯 **2030 Goal:** Graduate in Software Engineer.
+- 🎯 Learning japanese.
 
 ### 🛠️ Security Toolbox:
 - **UNDER CONSTRUCTION** 🚧
