@@ -1,24 +1,20 @@
-# Hello, I'm F0xTrot (Heitor)! 👨‍💻⚔️🚩
+# Hello, I'm Heitor Silva! 👨‍💻
 
-Welcome to my lab! I am an offensive security enthusiast on a journey to becoming a Professional Pentester.
+Welcome to my hub
 
 ### 🚀 About Me:
-- 🔭 Currently investing in my **Ethical Hacker** training through Solyd and looking for a **Degree in Cyber Defense / Cybersecurity**.
-- ⚡ Aiming for a career transition from Electronics Technician to Ethical Hacker.
-- 🎯 **2026 Goal:** Earn the **SYCP** (Solyd Certified Pentester) certification and join a Red Team.
+- 🇧🇷 From Brazil
+- 🔭 Currently investing in **Degree in Software Engineer / Cybersecurity / and maybe a work in Japan**.
+- ⚡ Aiming for a career transition from Electronics Technician to Programmer.
 - 🎯 **2030 Goal:** Graduate in Software Engineer.
 - 🎯 Learning japanese.
-
-### 🛠️ Security Toolbox:
-- **UNDER CONSTRUCTION** 🚧
   
 ### 📈 What you'll find here:
-In this profile, I share my automation scripts, simple reconnaissance tools, and my CTF machine write-ups.
+In this profile, I share my simple scripts, simple reconnaissance tools.
 
 ### 🪪 Certifications:
-- **SYCP** ➔ ⏳ _LOADING_
-- **SYES** ➔ ⏳ _LOADING_
 - **Degree** ➔ ⏳ _LOADING_
+- **JLPT-N5** ➔ ⏳ _LOADING_
 
 ---
 
