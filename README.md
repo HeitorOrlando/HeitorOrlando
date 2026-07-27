@@ -4,19 +4,16 @@ Welcome to my hub
 
 ### 🚀 About Me:
 - 🇧🇷 From Brazil
-- 🔭 Currently investing in **Degree in Software Engineer / Cybersecurity / and maybe a work in Japan**.
-- ⚡ Aiming for a career transition from Electronics Technician to Programmer.
+- 🔭 Currently investing in **Degree in Software Engineer**.
+- ⚡ Aiming for a career transition from Industries Maintenance to Programmer.
 - 🎯 **2030 Goal:** Graduate in Software Engineer.
-- 🎯 Learning japanese.
 - English B-1
   
 ### 📈 What you'll find here:
-In this profile, I share my simple scripts, simple reconnaissance tools.
+Projects in Java, Node, Python and somenthing in front-end
 
 ### 🪪 Certifications:
 - **Degree** ➔ ⏳ _LOADING_
-- **JLPT-N5** ➔ ⏳ _LOADING_
-
 ---
 
 > “Knowledge is the principal tool to make your future.”
